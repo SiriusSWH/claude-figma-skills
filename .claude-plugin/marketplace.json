@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "weihan-local",
-  "description": "Weihan 的本地 skill 库",
+  "name": "claude-figma-skills",
+  "description": "Weihan 的 Figma 设计类 skill 库（component-creator + page-builder）",
   "owner": {
     "name": "Weihan"
   },
