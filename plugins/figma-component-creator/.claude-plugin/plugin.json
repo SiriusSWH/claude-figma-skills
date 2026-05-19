@@ -1,0 +1,8 @@
+{
+  "name": "figma-component-creator",
+  "description": "从 HTML demo / iOS / Android 源头按原子设计 + Apple HIG 在指定 Figma 文件中一次性建组件库。强制流程：识别源 → 抠 token → 列清单 → 用户确认 → 分批生成 → 每批用户验收。",
+  "version": "0.1.0",
+  "author": {
+    "name": "Weihan"
+  }
+}

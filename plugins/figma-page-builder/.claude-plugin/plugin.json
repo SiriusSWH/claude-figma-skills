@@ -1,0 +1,8 @@
+{
+  "name": "figma-page-builder",
+  "description": "根据 demo（HTML/iOS/Android）+ PRD 在指定 Figma 文件中拼装产品页面与交互流程。所有页面必须用组件库现有 Component + Variable 拼，禁止凭印象自画。前置依赖：mapping.json 必须存在且 components 表非空。",
+  "version": "0.1.0",
+  "author": {
+    "name": "Weihan"
+  }
+}
