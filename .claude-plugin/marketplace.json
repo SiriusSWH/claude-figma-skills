@@ -10,19 +10,13 @@
       "name": "figma-component-creator",
       "description": "从 HTML demo / iOS / Android 源头按原子设计 + Apple HIG 在指定 Figma 文件中一次性建组件库",
       "category": "design",
-      "source": {
-        "source": "local",
-        "path": "./plugins/figma-component-creator"
-      }
+      "source": "./plugins/figma-component-creator"
     },
     {
       "name": "figma-page-builder",
       "description": "根据 demo + PRD 在指定 Figma 文件中拼装产品页面与交互流程。所有页面必须用现有 Component + Variable 拼。前置依赖 figma-component-creator",
       "category": "design",
-      "source": {
-        "source": "local",
-        "path": "./plugins/figma-page-builder"
-      }
+      "source": "./plugins/figma-page-builder"
     }
   ]
 }
